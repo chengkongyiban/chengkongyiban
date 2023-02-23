@@ -3,7 +3,7 @@
 欢迎订阅频道https://t.me/h5683577
 
 ## 目录
-重写 & 规则集转换:  [重写&规则集转换使用手册](https://github.com/chengkongyiban/stash/tree/main/Rewrite_Parse_Wiki)  
+重写 & 规则集转换:  [重写&规则集转换使用手册](https://github.com/chengkongyiban/stash/blob/main/Rewrite_Parse_Wiki/README.md)  
 
 
 <!--
