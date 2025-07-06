@@ -1,5 +1,3 @@
-欢迎加入群组https://t.me/zhangpeifu
-
 欢迎订阅频道https://t.me/h5683577
 
 ## 目录
